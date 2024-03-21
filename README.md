@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grubeljas
 - 👀 I’m interested in algorithms, data science
-- 🌱 I’m currently learning Data Science, SQL, LibGDX
+- 🌱 I’m currently learning Data Science, Godot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me p.grubel1as@gmail.com
